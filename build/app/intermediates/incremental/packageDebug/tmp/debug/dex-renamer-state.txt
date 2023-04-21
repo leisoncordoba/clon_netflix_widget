@@ -1,0 +1,4 @@
+#Wed Mar 29 19:31:33 COT 2023
+base.0=I\:\\flutter y dart\\clon_netflix_widget\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
